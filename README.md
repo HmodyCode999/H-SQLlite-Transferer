@@ -108,7 +108,7 @@ graph TD
 
 ### Method 2: From Source
 ```bash
-git clone https://github.com/HmodyCode999/sqlite-transfer-tool.git
+git clone https://github.com/HmodyCode999/H-SQLlite-Transferer
 cd sqlite-transfer-tool
 python main.py
 ```
